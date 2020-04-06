@@ -137,3 +137,5 @@ docs locally or to use the notebooks.</p></li>
 estimation for certain models.</p></li>
 <li><p><a class="reference external" href="https://jupyter.org/">jupyter</a> is needed to run the notebooks.</p></li>
 </ul>
+
+![Credit for ](https://www.statsmodels.org/)
